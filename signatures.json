@@ -1,0 +1,339 @@
+{
+  "version": 1,
+  "last_updated": "2025-11-15T00:00:00Z",
+  "spyware_packages": [
+    {
+      "package_name": "com.mspy.android",
+      "name": "mSpy",
+      "category": "commercial_spyware",
+      "severity": 100,
+      "description": "Logiciel espion commercial - permet la surveillance complète du téléphone",
+      "source": "coalition"
+    },
+    {
+      "package_name": "mspy.android",
+      "name": "mSpy (variant)",
+      "category": "commercial_spyware",
+      "severity": 100,
+      "description": "Logiciel espion commercial - permet la surveillance complète du téléphone",
+      "source": "coalition"
+    },
+    {
+      "package_name": "com.mobilespy",
+      "name": "Mobile Spy",
+      "category": "commercial_spyware",
+      "severity": 100,
+      "description": "Logiciel espion commercial - permet la surveillance complète du téléphone",
+      "source": "coalition"
+    },
+    {
+      "package_name": "com.flexispy",
+      "name": "FlexiSpy",
+      "category": "commercial_spyware",
+      "severity": 100,
+      "description": "Logiciel espion commercial très invasif - écoute des appels, localisation GPS, accès aux messages",
+      "source": "coalition"
+    },
+    {
+      "package_name": "flexispy",
+      "name": "FlexiSpy (variant)",
+      "category": "commercial_spyware",
+      "severity": 100,
+      "description": "Logiciel espion commercial très invasif - écoute des appels, localisation GPS, accès aux messages",
+      "source": "coalition"
+    },
+    {
+      "package_name": "com.retina",
+      "name": "Retina-X",
+      "category": "commercial_spyware",
+      "severity": 100,
+      "description": "Logiciel espion commercial - surveillance SMS, appels, localisation",
+      "source": "coalition"
+    },
+    {
+      "package_name": "com.hoverwatch",
+      "name": "Hoverwatch",
+      "category": "commercial_spyware",
+      "severity": 100,
+      "description": "Logiciel espion commercial - enregistrement des appels, captures d'écran, localisation GPS",
+      "source": "manual"
+    },
+    {
+      "package_name": "hoverwatch",
+      "name": "Hoverwatch (variant)",
+      "category": "commercial_spyware",
+      "severity": 100,
+      "description": "Logiciel espion commercial - enregistrement des appels, captures d'écran, localisation GPS",
+      "source": "manual"
+    },
+    {
+      "package_name": "com.spyzie",
+      "name": "Spyzie",
+      "category": "commercial_spyware",
+      "severity": 95,
+      "description": "Logiciel espion commercial - accès aux messages, localisation, historique de navigation",
+      "source": "manual"
+    },
+    {
+      "package_name": "spyzie",
+      "name": "Spyzie (variant)",
+      "category": "commercial_spyware",
+      "severity": 95,
+      "description": "Logiciel espion commercial - accès aux messages, localisation, historique de navigation",
+      "source": "manual"
+    },
+    {
+      "package_name": "com.mobiletracker",
+      "name": "Mobile Tracker",
+      "category": "commercial_spyware",
+      "severity": 90,
+      "description": "Logiciel de surveillance - localisation GPS en temps réel",
+      "source": "manual"
+    },
+    {
+      "package_name": "mobiletracker",
+      "name": "Mobile Tracker (variant)",
+      "category": "commercial_spyware",
+      "severity": 90,
+      "description": "Logiciel de surveillance - localisation GPS en temps réel",
+      "source": "manual"
+    },
+    {
+      "package_name": "com.theonespyapp",
+      "name": "TheOneSpy",
+      "category": "stalkerware",
+      "severity": 100,
+      "description": "Stalkerware - surveillance invasive complète du téléphone",
+      "source": "coalition"
+    },
+    {
+      "package_name": "theonespy",
+      "name": "TheOneSpy (variant)",
+      "category": "stalkerware",
+      "severity": 100,
+      "description": "Stalkerware - surveillance invasive complète du téléphone",
+      "source": "coalition"
+    },
+    {
+      "package_name": "com.xnspy",
+      "name": "XNSPY",
+      "category": "commercial_spyware",
+      "severity": 100,
+      "description": "Logiciel espion commercial - écoute d'appels, enregistrement de l'environnement, accès aux médias sociaux",
+      "source": "coalition"
+    },
+    {
+      "package_name": "xnspy",
+      "name": "XNSPY (variant)",
+      "category": "commercial_spyware",
+      "severity": 100,
+      "description": "Logiciel espion commercial - écoute d'appels, enregistrement de l'environnement, accès aux médias sociaux",
+      "source": "coalition"
+    },
+    {
+      "package_name": "com.spyic",
+      "name": "Spyic",
+      "category": "commercial_spyware",
+      "severity": 95,
+      "description": "Logiciel espion commercial - accès aux messages, localisation, historique de navigation",
+      "source": "manual"
+    },
+    {
+      "package_name": "spyic",
+      "name": "Spyic (variant)",
+      "category": "commercial_spyware",
+      "severity": 95,
+      "description": "Logiciel espion commercial - accès aux messages, localisation, historique de navigation",
+      "source": "manual"
+    },
+    {
+      "package_name": "com.cocospy",
+      "name": "Cocospy",
+      "category": "commercial_spyware",
+      "severity": 95,
+      "description": "Logiciel espion commercial - accès aux messages, localisation, historique de navigation",
+      "source": "manual"
+    },
+    {
+      "package_name": "cocospy",
+      "name": "Cocospy (variant)",
+      "category": "commercial_spyware",
+      "severity": 95,
+      "description": "Logiciel espion commercial - accès aux messages, localisation, historique de navigation",
+      "source": "manual"
+    },
+    {
+      "package_name": "com.spyera",
+      "name": "Spyera",
+      "category": "commercial_spyware",
+      "severity": 100,
+      "description": "Logiciel espion commercial très sophistiqué - écoute d'appels en direct, enregistrement de l'environnement",
+      "source": "coalition"
+    },
+    {
+      "package_name": "spyera",
+      "name": "Spyera (variant)",
+      "category": "commercial_spyware",
+      "severity": 100,
+      "description": "Logiciel espion commercial très sophistiqué - écoute d'appels en direct, enregistrement de l'environnement",
+      "source": "coalition"
+    },
+    {
+      "package_name": "com.ikeymonitor",
+      "name": "iKeyMonitor",
+      "category": "commercial_spyware",
+      "severity": 95,
+      "description": "Logiciel espion commercial - keylogger, captures d'écran, enregistrement audio/vidéo",
+      "source": "manual"
+    },
+    {
+      "package_name": "ikeymonitor",
+      "name": "iKeyMonitor (variant)",
+      "category": "commercial_spyware",
+      "severity": 95,
+      "description": "Logiciel espion commercial - keylogger, captures d'écran, enregistrement audio/vidéo",
+      "source": "manual"
+    },
+    {
+      "package_name": "com.phonetracker",
+      "name": "Phone Tracker",
+      "category": "surveillance",
+      "severity": 85,
+      "description": "Application de surveillance - localisation GPS et accès aux messages",
+      "source": "manual"
+    },
+    {
+      "package_name": "phonetracker",
+      "name": "Phone Tracker (variant)",
+      "category": "surveillance",
+      "severity": 85,
+      "description": "Application de surveillance - localisation GPS et accès aux messages",
+      "source": "manual"
+    },
+    {
+      "package_name": "com.spyfone",
+      "name": "Spyfone",
+      "category": "commercial_spyware",
+      "severity": 95,
+      "description": "Logiciel espion commercial - surveillance complète des activités téléphoniques",
+      "source": "manual"
+    },
+    {
+      "package_name": "spyfone",
+      "name": "Spyfone (variant)",
+      "category": "commercial_spyware",
+      "severity": 95,
+      "description": "Logiciel espion commercial - surveillance complète des activités téléphoniques",
+      "source": "manual"
+    },
+    {
+      "package_name": "com.highster",
+      "name": "Highster Mobile",
+      "category": "commercial_spyware",
+      "severity": 90,
+      "description": "Logiciel espion commercial - accès aux messages, appels, localisation",
+      "source": "manual"
+    },
+    {
+      "package_name": "highstermobile",
+      "name": "Highster Mobile (variant)",
+      "category": "commercial_spyware",
+      "severity": 90,
+      "description": "Logiciel espion commercial - accès aux messages, appels, localisation",
+      "source": "manual"
+    },
+    {
+      "package_name": "com.spybubble",
+      "name": "SpyBubble",
+      "category": "commercial_spyware",
+      "severity": 90,
+      "description": "Logiciel espion commercial - surveillance des communications et localisation",
+      "source": "manual"
+    },
+    {
+      "package_name": "spybubble",
+      "name": "SpyBubble (variant)",
+      "category": "commercial_spyware",
+      "severity": 90,
+      "description": "Logiciel espion commercial - surveillance des communications et localisation",
+      "source": "manual"
+    },
+    {
+      "package_name": "com.teensafe",
+      "name": "TeenSafe",
+      "category": "parental_control",
+      "severity": 60,
+      "description": "Application de contrôle parental (controversée pour violations de vie privée)",
+      "source": "coalition"
+    },
+    {
+      "package_name": "teensafe",
+      "name": "TeenSafe (variant)",
+      "category": "parental_control",
+      "severity": 60,
+      "description": "Application de contrôle parental (controversée pour violations de vie privée)",
+      "source": "coalition"
+    },
+    {
+      "package_name": "com.mobistealth",
+      "name": "MobiStealth",
+      "category": "commercial_spyware",
+      "severity": 100,
+      "description": "Logiciel espion commercial furtif - enregistrement des appels, messages, localisation",
+      "source": "coalition"
+    },
+    {
+      "package_name": "mobistealth",
+      "name": "MobiStealth (variant)",
+      "category": "commercial_spyware",
+      "severity": 100,
+      "description": "Logiciel espion commercial furtif - enregistrement des appels, messages, localisation",
+      "source": "coalition"
+    },
+    {
+      "package_name": "com.spyphone",
+      "name": "SpyPhone",
+      "category": "commercial_spyware",
+      "severity": 95,
+      "description": "Logiciel espion commercial - surveillance complète du téléphone",
+      "source": "manual"
+    },
+    {
+      "package_name": "spyphone.android",
+      "name": "SpyPhone Android",
+      "category": "commercial_spyware",
+      "severity": 95,
+      "description": "Logiciel espion commercial - surveillance complète du téléphone",
+      "source": "manual"
+    }
+  ],
+  "parental_control_packages": [
+    "com.google.android.apps.kids.familylink",
+    "com.microsoft.familysafety",
+    "com.qustodio.qustodioapp",
+    "com.symantec.familysafety",
+    "com.kaspersky.safekids",
+    "com.norton.family",
+    "net.familytime.android",
+    "com.securly.parent",
+    "com.netsanity",
+    "com.orange.parentalcontrol",
+    "com.sfr.android.controle.parental",
+    "com.bouyguestelecom.ecm"
+  ],
+  "suspicious_keywords": [
+    "spy",
+    "track",
+    "monitor",
+    "stealth",
+    "hidden",
+    "surveillance",
+    "parental",
+    "control",
+    "watcher",
+    "keylog",
+    "location",
+    "recorder",
+    "listener"
+  ]
+}
